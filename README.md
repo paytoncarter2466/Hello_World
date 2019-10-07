@@ -1,2 +1,2 @@
 # Hello_World
-A generic repository for this assignment
+An awesome repository for this assignment
